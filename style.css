@@ -30,8 +30,12 @@
             text-align: center;
         }
 
-        #img-align {
+        #profile-pic{
+
             text-align: center;
+            float: left;
+            margin-right: 20px;
+
         }
 
         .button:hover{
