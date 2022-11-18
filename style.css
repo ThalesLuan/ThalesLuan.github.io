@@ -22,7 +22,9 @@
             font-size: 16px;
             margin: 4px 2px;
             cursor: pointer;
-            border-radius: 50px
+            border-radius: 50px;
+            position: absolute;
+            top: 700px;
         }
 
         h1,
@@ -40,4 +42,15 @@
 
         .button:hover{
             background-color: rgb(70, 61, 122)
+        }
+
+        #list {
+            position:absolute;
+            top: 750px
+
+        }
+
+        .lorenIpsun {
+            position: absolute;
+            top: 850;
         }
